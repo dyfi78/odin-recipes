@@ -1,0 +1,15 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: lightcyan;
+}
+
+h1 {
+    font-size: 60px;
+    text-decoration: underline;
+    color: goldenrod;
+}
+
+li, p, a {
+    font-size: 24px;
+}
+
